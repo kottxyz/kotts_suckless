@@ -24,7 +24,3 @@ Suckless software is awesome when it's patched, so I picked some necessary patch
 
 ### SLOCK:
 - background-image
-
-# USAGE
-
-Edit `config.h` file to make changes (customize paths and other parameters) and then run `sudo make clean install` command to get changes working.
