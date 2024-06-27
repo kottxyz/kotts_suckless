@@ -2,27 +2,27 @@
 
 Suckless software is awesome when it's patched, so I picked some necessary patches and applied them. Here's the list:
 
-## DWM:
-- vanity-gaps
+### DWM:
+- fullgaps-toggle
 - swallow
-- hidevacanttags
+- hide vacant tags
 - pertag
 - movestack
 - alwayscenter
 - moveresize
 
-## ST:
+### ST:
 - expected-anysize
 - scrollback + scrollback-mouse
 - gruvbox-dark
 - alpha
 
-## DMENU:
+### DMENU:
 - caseinsensitive
 - fuzzyhighlight
 - lineheight
 
-## SLOCK:
+### SLOCK:
 - background-image
 
 # USAGE
